@@ -1,0 +1,23 @@
+.box:hover {
+    cursor: pointer;
+}
+
+.box,
+.box2 {
+    border: solid 1px rgb(224, 224, 224);
+}
+
+.contactButton {
+    border: solid 1px #006169;
+    color: #006169;
+}
+
+.contactButton:hover {
+    background-color: rgb(230, 230, 230);
+}
+
+.boxImage {
+    height: 200px !important;
+    overflow: hidden;
+}
+
