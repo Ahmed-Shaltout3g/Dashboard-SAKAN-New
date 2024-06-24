@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dashboard-SAKAN-New/static/css/main.e8fbac0b.css",
+    "main.js": "/Dashboard-SAKAN-New/static/js/main.9ac61311.js",
+    "static/js/453.51b20bab.chunk.js": "/Dashboard-SAKAN-New/static/js/453.51b20bab.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Dashboard-SAKAN-New/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/Dashboard-SAKAN-New/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/Dashboard-SAKAN-New/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/Dashboard-SAKAN-New/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/isolated-avatar-man-and-house-design-removebg-preview.png": "/Dashboard-SAKAN-New/static/media/isolated-avatar-man-and-house-design-removebg-preview.e5045a50a4a16460c38d.png",
+    "static/media/fa-regular-400.ttf": "/Dashboard-SAKAN-New/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/Dashboard-SAKAN-New/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Dashboard-SAKAN-New/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Dashboard-SAKAN-New/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/logo.svg": "/Dashboard-SAKAN-New/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Dashboard-SAKAN-New/index.html",
+    "main.e8fbac0b.css.map": "/Dashboard-SAKAN-New/static/css/main.e8fbac0b.css.map",
+    "main.9ac61311.js.map": "/Dashboard-SAKAN-New/static/js/main.9ac61311.js.map",
+    "453.51b20bab.chunk.js.map": "/Dashboard-SAKAN-New/static/js/453.51b20bab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fbac0b.css",
+    "static/js/main.9ac61311.js"
+  ]
+}
