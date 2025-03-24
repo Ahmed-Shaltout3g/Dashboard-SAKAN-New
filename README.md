@@ -1,7 +1,7 @@
-# Dashboard-SAKAN- Real estat New
+# Dashboard-SAKAN- Real estate New
 
 
-## A React Educational platform application
+## A MERN Dashboard-SAKAN- Real estate application
 
 
 ## Table of Contents
